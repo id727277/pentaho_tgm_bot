@@ -1099,7 +1099,7 @@
         <stream_name>City</stream_name>
       </field>
       <field>
-        <column_name>state_abbr</column_name>
+        <column_name>state_name</column_name>
         <stream_name>State</stream_name>
       </field>
       <field>
@@ -1187,7 +1187,7 @@
     <return_field/>
     <fields>
       <field>
-        <column_name>customer_uniq_id</column_name>
+        <column_name>person</column_name>
         <stream_name>Person</stream_name>
       </field>
       <field>
