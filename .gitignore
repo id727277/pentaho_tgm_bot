@@ -53,4 +53,4 @@ docs/_build/
 venv/
 
 # Other
-
+credentials.py
